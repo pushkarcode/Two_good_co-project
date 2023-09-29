@@ -188,7 +188,6 @@ body {
 #page3 .elem .dets {
     height: 50px;
     width: 280px;
-    background-color: #C1AAA3;
     border-radius: 27px;
     position: absolute;
     z-index: 9;
@@ -222,6 +221,15 @@ body {
     cursor: pointer;
     font-size: .8vw;
     color: #000;
+}
+#dets-color {
+    background-color: #C1AAA3;
+}
+#dets-color1 {
+    background-color: #f5dfcfef;
+}
+#dets-color2 {
+    background-color: #ffffffed;
 }
 
 
